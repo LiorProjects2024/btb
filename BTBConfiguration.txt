@@ -1,0 +1,5 @@
+ghr_bits = 6;
+bhr_bits = 3;
+entries = 2048;
+which_predictor = 0; rem Local_private_FSM = 0 Local_shared_FSM = 1 Global = 2 Tournament = 3;
+ 
